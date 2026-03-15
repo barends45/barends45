@@ -2,7 +2,7 @@
 
 💻 Junior Software Engineer | Python | Java | SQL  
 🎓 HyperionDev Software Engineering Bootcamp Graduate  
-🌍 Open to opportunities in the Netherlands
+🌍 Open to opportunities 
 
 ---
 
